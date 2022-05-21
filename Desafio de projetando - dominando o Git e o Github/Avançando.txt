@@ -1,0 +1,8 @@
+Comandos básico do Git:
+- git init
+- git add
+- git commit
+- git clone
+- git status
+- git push
+- git pull
